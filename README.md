@@ -1,3 +1,5 @@
+![active development](https://img.shields.io/badge/active%20dev-no-red.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simcard0000/electromagnetic-wave-propagation.svg)
 # electromagnetic-wave-propagation
 📊 Playing around with matplotlib for physics!
 
